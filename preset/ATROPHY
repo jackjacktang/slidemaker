@@ -1,0 +1,9 @@
+# ItemNo DisplayName MaskLes? Blank? None? T1? Associate
+1 Baseline_postC_T1 N N N N 7
+2 Baseline_FLAIR N N N N 7
+3 Followup_FLAIR Y N N N 8
+4 FLAIR_Subtraction Y N N N 4
+6 Followup_postC_T1 N N N N 8
+7 Baseline_preC_T1 N N N Y 7
+8 Followup_preC_T1 Y N N Y 8
+9 FLAIR_Subtraction N N N N 9
